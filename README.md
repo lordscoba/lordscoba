@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=3498db)
 
 
 <br>
