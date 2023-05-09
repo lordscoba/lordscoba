@@ -2,7 +2,7 @@
 
 🔭 I’m currently working in https://snappy-fix.com
 
-😄  I’m open for a frontend, backend or fullstack role
+😄 I’m open for a frontend, backend or fullstack role
 
 ⚡ Do you know this? : I am a chemical engineer!
 
@@ -11,6 +11,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/lordscoba)
 
 ## 💼 Skills
+
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Style-JQuery-informational?style=flat&logo=JQuery&logoColor=white&color=3498db)
@@ -23,13 +24,16 @@
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=3498db)
-
-
+![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=React&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=3498db)
 <br>
 <br>
 
 ## &#x1f4c8; GitHub Stats
-
 
 <a href="https://github.com/lordscoba">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordscoba&hide=html,css&title_color=ffffff&text_color=3498db&icon_color=4AB197&bg_color=1A2B34" />
