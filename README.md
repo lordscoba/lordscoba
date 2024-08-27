@@ -32,6 +32,8 @@
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=Linux&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-Github-informational?style=flat&logo=Github&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=3498db)
 <br>
 <br>
 
